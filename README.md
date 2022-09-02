@@ -1,1 +1,1 @@
-# Simples counter using Javascript!
+# Simple counter using Javascript!
